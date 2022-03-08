@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # -*- coding = utf-8 -*-
 # @time:2022/3/6 10:31
-# Author:ldx
+# Author:sssmmmx
 # @File:trading_volume_bot_0.py
 # @Software:PyCharm
 
@@ -9,7 +9,6 @@
 方案0：
 市价同进同出。
 消耗预估：手续费0.05% + 损耗0.06% 合计约 0.15%
-综合计算：返佣前 275 返佣后 225
 时间周期：较快
 """
 

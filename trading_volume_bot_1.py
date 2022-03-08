@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # -*- coding = utf-8 -*-
 # @time:2022/3/6 10:32
-# Author:ldx
+# Author:sssmmmx
 # @File:trading_volume_bot_1.py
 # @Software:PyCharm
 
